@@ -175,3 +175,14 @@ hr{
 	color: #202020;
 }
 .button:hover {background-color: #3e8e41}
+
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 1.5%;
+  background-color: #39FF14;
+  color: white;
+  text-align: center;
+}
